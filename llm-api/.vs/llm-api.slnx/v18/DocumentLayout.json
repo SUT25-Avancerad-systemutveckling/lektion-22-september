@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\llm-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\llm-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\llm-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\llm-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F756DF6-57B1-48AC-86B3-4FB1FF3960B8}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E8C35-B710-9635-1404-4D4AF7912810}|llm-api\\llm-api.csproj|solutionrelative:llm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "llm-api\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\Properties\\launchSettings.json",
               "RelativeToolTip": "llm-api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-22T09:35:14.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "llm-api.http",
               "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\llm-api.http",
               "RelativeDocumentMoniker": "llm-api\\llm-api.http",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "llm-api\\Controllers\\ChatController.cs",
@@ -72,8 +72,7 @@
               "RelativeToolTip": "llm-api\\Controllers\\ChatController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwDEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T08:42:48.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T08:42:48.334Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "RelativeToolTip": "llm-api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T08:41:20.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T08:41:20.79Z"
             }
           ]
         }

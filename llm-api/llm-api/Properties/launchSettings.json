@@ -17,7 +17,7 @@
       "applicationUrl": "https://localhost:7027;http://localhost:5193",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OLLAMA_API_KEY": "6d7336581fc74489954f1fd1152da3e8.xqwqBQBTXMg5Dx2L7nFcj2ou"
+        "OLLAMA_API_KEY": "DIN_API_NYCKEL"
       }
     }
   }
