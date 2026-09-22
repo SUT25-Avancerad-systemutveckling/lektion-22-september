@@ -1,0 +1,35 @@
+@WontonUpAPI_HostAddress = http://localhost:5267
+
+GET {{WontonUpAPI_HostAddress}}/menu
+Accept: application/json
+
+###
+
+GET {{WontonUpAPI_HostAddress}}/menu?type=wonton
+Accept: application/json
+
+###
+
+POST {{WontonUpAPI_HostAddress}}/orders
+Content-Type: application/json
+Accept: application/json
+
+{
+  "items": [
+    1, 3, 3, 4, 4, 9, 17
+  ]
+}
+
+###
+
+GET {{WontonUpAPI_HostAddress}}/orders
+Accept: application/json
+
+###
+
+GET {{WontonUpAPI_HostAddress}}/orders/b2d0f421-0734-424d-8f36-e4eaf24f68d2
+Accept: application/json
+
+###
+
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJm0UBR3MPQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-22-september\\llm-api\\llm-api\\llm-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChristofferWallenber\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\ChristofferWallenber\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

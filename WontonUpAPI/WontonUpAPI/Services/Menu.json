@@ -1,0 +1,158 @@
+[
+  {
+    "Id": 1,
+    "Type": "wonton",
+    "Name": "Karlstad",
+    "Description": "En god friterad wonton med smaker från de värmländska skogarna.",
+    "Ingredients": [
+      "kantarell",
+      "scharlottenlök",
+      "morot",
+      "bladpersilja"
+    ],
+    "Price": 9
+  },
+  {
+    "Id": 2,
+    "Type": "wonton",
+    "Name": "Bangkok",
+    "Description": "En god friterad wonton med smaker från Bangkoks gator.",
+    "Ingredients": [
+      "morot",
+      "salladslök",
+      "chili",
+      "kokos",
+      "lime",
+      "koriander"
+    ],
+    "Price": 9
+  },
+  {
+    "Id": 3,
+    "Type": "wonton",
+    "Name": "Ho Chi Minh",
+    "Description": "En god friterad wonton med smaker från vietnams matkultur.",
+    "Ingredients": [
+      "kål",
+      "morot",
+      "salladslök",
+      "chili",
+      "vitlök",
+      "ingefära",
+      "tofu"
+    ],
+    "Price": 9
+  },
+  {
+    "Id": 4,
+    "Name": "Paris",
+    "Type": "wonton",
+    "Description": "En god friterad wonton med smaker från det franska köket.",
+    "Ingredients": [
+      "kål",
+      "honung",
+      "chevré",
+      "basilika",
+      "valnötspasta"
+    ],
+    "Price": 9
+  },
+  {
+    "Id": 5,
+    "Type": "wonton",
+    "Name": "Oaxaca",
+    "Description": "En god friterad wonton med smaker från mexicos kryddiga matkultur.",
+    "Ingredients": [
+      "majs",
+      "tomat",
+      "rostade ärtor",
+      "vitlök",
+      "lime"
+    ],
+    "Price": 9
+  },
+  {
+    "Id": 6,
+    "Type": "dip",
+    "Name": "Sweet Chili",
+    "Description": "Stark och söt dip från Thailänska höglandet.",
+    "Price": 19
+  },
+  {
+    "Id": 7,
+    "Type": "dip",
+    "Name": "Sweet n Sour",
+    "Description": "Klassiska sötsura dipsåsen från Kina.",
+    "Price": 19
+  },
+  {
+    "Id": 8,
+    "Type": "dip",
+    "Name": "Guacamole",
+    "Description": "Avocado, tomat och kryddor i optimal kombination.",
+    "Price": 19
+  },
+  {
+    "Id": 9,
+    "Type": "dip",
+    "Name": "Wonton Standard",
+    "Description": "Smaksatt olja med soya, chili, vitlök & ingefära.",
+    "Price": 19
+  },
+  {
+    "Id": 10,
+    "Type": "dip",
+    "Name": "Hot Mango",
+    "Description": "Kryddstark och söt chunky mangodip.",
+    "Price": 19
+  },
+  {
+    "Id": 11,
+    "Type": "dip",
+    "Name": "Chili Mayo",
+    "Description": "Egengjord majonäs smaksatt med chili.",
+    "Price": 19
+  },
+  {
+    "Id": 12,
+    "Type": "drink",
+    "Name": "Sprite",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  },
+  {
+    "Id": 13,
+    "Type": "drink",
+    "Name": "Fanta Orange",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  },
+  {
+    "Id": 14,
+    "Type": "drink",
+    "Name": "Fanta Exotic",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  },
+  {
+    "Id": 15,
+    "Type": "drink",
+    "Name": "Coca Cola",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  },
+  {
+    "Id": 16,
+    "Type": "drink",
+    "Name": "LOKA Citrus",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  },
+  {
+    "Id": 17,
+    "Type": "drink",
+    "Name": "LOKA Granatäpple",
+    "Description": "Lorem ipsum dolor sit amet, bubbly fruity elit. Fizzy carbonated.",
+    "Price": 19
+  }
+]
